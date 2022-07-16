@@ -1,8 +1,7 @@
 {
   "name": "nextjs-blog",
   "version": "0.1.0",
-  "private": false,
-  "main": "index.js",
+  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
