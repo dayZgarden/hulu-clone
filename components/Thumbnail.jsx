@@ -34,4 +34,6 @@ const Thumbnail = forwardRef(({ result }, ref) => {
 
 //added, rating, genres, {platforms.map(e => e.platform)}
 
+Thumbnail.displayName = 'Thumbnail'
+
 export default Thumbnail;
